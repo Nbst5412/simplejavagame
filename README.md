@@ -1,2 +1,0 @@
-# simplejavagame
-Created with CodeSandbox
